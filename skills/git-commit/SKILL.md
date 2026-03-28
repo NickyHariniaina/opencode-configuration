@@ -3,7 +3,7 @@ name: git-commit
 description: Create a commit with a message
 ---
 
-## What I do
+## What I Do
 
 - Check on which branch I am
 - Read these references before committing:
@@ -15,7 +15,7 @@ description: Create a commit with a message
 - Create a commit message following the conventional commit specification and following the changes
 - Commit the changes
 
-## When to use me
+## When to Use Me
 
 Use this when either I tell you to commit the changes or you finished any change in build mode.
 
