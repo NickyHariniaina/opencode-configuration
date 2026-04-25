@@ -1,4 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": ["opencode-agent-skills"]
+  "plugin": ["opencode-agent-skills", "envsitter-guard@latest", "@howaboua/opencode-planning-toolkit@latest"]
 }
